@@ -1,0 +1,14 @@
+{
+  "name": "06-idea-app",
+  "version": "1.0.0",
+  "description": "First proper backend based App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheCurryGuy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
